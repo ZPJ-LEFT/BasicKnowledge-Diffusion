@@ -1,2 +1,2 @@
-# BasicKnowledge-YOLO
-关于目标检测算法，尤其是YOLO的基础知识
+# BasicKnowledge-Diffusion
+关于Diffusion算法的基础知识
